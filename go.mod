@@ -6,8 +6,7 @@ require (
 	github.com/Masterminds/semver v1.4.0
 	github.com/containers/libpod v1.9.3
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
-	github.com/golang/mock v1.2.0
-	github.com/golang/protobuf v1.4.1 // indirect
+	github.com/golang/mock v1.4.1
 	github.com/onsi/ginkgo v1.12.0
 	github.com/onsi/gomega v1.10.0
 	github.com/pkg/errors v0.9.1
@@ -16,10 +15,10 @@ require (
 	github.com/prometheus/client_golang v1.6.0
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 	helm.sh/helm/v3 v3.2.3
-	k8s.io/api v0.18.0
-	k8s.io/apimachinery v0.18.0
-	k8s.io/cli-runtime v0.18.0
-	k8s.io/client-go v0.18.0
-	k8s.io/klog/v2 v2.0.0
+	k8s.io/api v0.20.2
+	k8s.io/apimachinery v0.20.2
+	k8s.io/cli-runtime v0.20.2
+	k8s.io/client-go v0.20.2
+	k8s.io/klog/v2 v2.4.0
 	rsc.io/letsencrypt v0.0.3 // indirect
 )
