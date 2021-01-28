@@ -6,7 +6,7 @@ require (
 	github.com/Masterminds/semver v1.4.0
 	github.com/containers/libpod v1.9.3
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
-	github.com/golang/mock v1.2.0
+	github.com/golang/mock v1.4.4
 	github.com/golang/protobuf v1.4.1 // indirect
 	github.com/onsi/ginkgo v1.12.0
 	github.com/onsi/gomega v1.10.0
